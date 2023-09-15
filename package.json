@@ -5,9 +5,9 @@
   "engines": {
     "node": "18.x || 16.x"
   },
-  "main": "index.js",
+  "main": "abc.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node abc.js",
     "test": "node test.js"
   },
   "dependencies": {
