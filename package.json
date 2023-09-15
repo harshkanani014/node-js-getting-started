@@ -5,7 +5,6 @@
   "engines": {
     "node": "18.x || 16.x"
   },
-  "main": "abc.js",
   "scripts": {
     "start": "nodemon",
     "test": "node test.js"
